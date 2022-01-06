@@ -1,0 +1,128 @@
+body{
+    font-family: 'poppins',sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.btn-color{
+    background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+    border-radius: 12px;
+    color: #FFFFFF;
+    display: inline-block;
+    font-family: serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+    width: 75%;
+}
+.My-mission-part{
+    margin-bottom: 100px;
+}
+/* mission */
+.My-mission-part h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.my-mission-item{
+    display: flex;
+    
+}
+.mission-box{
+    width: 75%;
+    margin: 4px;
+    box-shadow: 0px 10px 20px #ccd181 ;
+    padding: 20px 25px;
+    border: 2px solid;
+    border-radius: 10px 100px / 120px;
+    text-align: center;
+}
+.mission-box h4{
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    
+    
+}
+.Mission{
+    background-color: rgb(105, 235, 240);
+     
+}
+.Vission{
+    background-color: #e0c3d9;
+     
+}
+.Goal{
+    background-color: #f5a1a1;
+     
+}
+
+
+/* first and third */
+.developer-part h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.developer-part{
+margin-bottom: 100px;
+}
+.developer-hlf{
+    width: 50%;
+    padding: 2%;
+}
+.developer-hlf img{
+    width: 80%;
+    height: 70%;
+    box-shadow: 20px 20px 5px rgb(245, 227, 227);
+    border-radius: 10% 30% 50% 70%;
+    padding: 10px 10px;
+}
+.developer-text{
+    width: 50%;
+    height: 70%;
+    margin: 4px;
+    background-color: white;
+    box-shadow: 10px 10px 10px #ccd181 ;
+    padding: 0 25px;
+    border: 1px solid;
+    border-radius: 10px 100px / 120px;
+    text-align: center;
+}
+.developer-part span{
+    color: #fcb842;
+}
+
+/* second section css */
+
+/* footer */
+.footer{
+    align-content: center;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+    
+    
